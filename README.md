@@ -9,7 +9,7 @@
 
 **Data Visualization**: Matplotlib, Seaborn, plotly, Tableau
 
-**Tools**
+**Tools**:
 Python, Spark, Pandas, Scikit-learn, Statsmodels, SparkML, SQL, Hive, Matplotlib, Tensorflow, Numpy, Linux/Unix, OpenCV, Jupyter Notebook, Git
 
 
