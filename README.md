@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahajan07
 - 👀 I’m interested in Data Science, Machine learning and Neural Networks
-- 🌱 I’m currently studying Data Science as a Graduate student in University of Michigan- Dearborn
+- 🌱 M.S. in Data Science from University of Michigan
 - 💞️ I’m looking to collaborate on projects and research related to Stock Market, Natural Language processing, Data mining and BIg Data Applications!
 - 📫 Click here to reach me on [Linkedin](https://www.linkedin.com/in/dewank-mahajan/)
 
