@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @mahajan07
-- 👀 I’m interested in Data Science, Machine learning and Neural Networks
-- 🌱 M.S. in Data Science from University of Michigan
-- 💞️ I’m looking to collaborate on projects and research related to Stock Market, Natural Language processing, Data mining and BIg Data Applications!
-- 📫 Click here to reach me on [Linkedin](https://www.linkedin.com/in/dewank-mahajan/)
+# Welcome to My Profile! I'm Dewank Mahajan 🚀
 
-
-# Welcome to My Profile! I'm @mahajan07 🚀
-
-## 🌟 Data Science Visionary | Machine Learning Architect | AI Innovator in Banking and EdTech
+## 🌟 Data Science Visionary | Machine Learning Architect | AI Innovator
+##  🏦 Banking | 🔍 Compliance | 📑 Regulatory | 📊 Business Operations | 🛠️ Technical Solutions
 
 ### 🔍 About Me:
 As a passionate Data Scientist with a Master’s degree from the University of Michigan, I specialize in transforming complex datasets into actionable insights and strategic decisions. My expertise spans the dynamic fields of Machine Learning, Artificial Intelligence, and Big Data, particularly within the banking and educational sectors. I'm driven by a mission to leverage data to revolutionize these industries, enhancing everything from customer experience in consumer banking to learning outcomes in education.
@@ -28,8 +22,5 @@ Check out my projects on GitHub, and let’s push the boundaries of what we can 
 
 **Skills**
 **Machine and Deep Learning**: Classification, Regression, Anomaly Detection, Unsupervised Learning, Statistical Modeling, Big Data ecosystem, Deep learning, Natural language Processing
-
 **Data Visualization**: Matplotlib, Seaborn, plotly, Tableau
-
-**Tools**:
-Python, Spark, Pandas, Scikit-learn, Statsmodels, SparkML, SQL, Hive, Matplotlib, Tensorflow, Numpy, Linux/Unix, OpenCV, Jupyter Notebook, Git
+**Tools**: Python, Spark, Pandas, Scikit-learn, Statsmodels, SparkML, SQL, Hive, Matplotlib, Tensorflow, Numpy, Linux/Unix, OpenCV, Jupyter Notebook, Git
