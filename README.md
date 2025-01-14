@@ -14,8 +14,7 @@ As a passionate Data Scientist with a Master’s degree from the University of M
 ### 🌐 Let's Connect & Collaborate:
 Whether you’re tackling complex challenges in the financial sector, seeking to innovate in EdTech, or interested in harnessing the latest AI technologies, I’m eager to connect, share insights, and explore potential synergies. Let’s use data science to forge new paths and create transformative solutions!
 
-### 📫 Reach Out:
-[Connect with me on LinkedIn](https://www.linkedin.com/in/dewank-mahajan/)  <!-- Add your actual LinkedIn URL here -->
+### 📫 Reach Out: [Connect with me on LinkedIn](https://www.linkedin.com/in/dewank-mahajan/)  <!-- Add your actual LinkedIn URL here -->
 
 ### 🤝 GitHub Collaborators:
 Check out my projects on GitHub, and let’s push the boundaries of what we can achieve with data together! [Visit my GitHub](#) <!-- Add your GitHub profile link -->
