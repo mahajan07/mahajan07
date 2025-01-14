@@ -19,8 +19,3 @@ Whether you’re tackling complex challenges in the financial sector, seeking to
 
 ### 🤝 GitHub Collaborators:
 Check out my projects on GitHub, and let’s push the boundaries of what we can achieve with data together! [Visit my GitHub](#) <!-- Add your GitHub profile link -->
-
-**Skills**
-**Machine and Deep Learning**: Classification, Regression, Anomaly Detection, Unsupervised Learning, Statistical Modeling, Big Data ecosystem, Deep learning, Natural language Processing
-**Data Visualization**: Matplotlib, Seaborn, plotly, Tableau
-**Tools**: Python, Spark, Pandas, Scikit-learn, Statsmodels, SparkML, SQL, Hive, Matplotlib, Tensorflow, Numpy, Linux/Unix, OpenCV, Jupyter Notebook, Git
