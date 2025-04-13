@@ -17,10 +17,7 @@ Whether you’re tackling complex challenges in the financial sector, seeking to
 ### 📫 Reach Out: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewank-mahajan/)
 
-### 🤝 GitHub Collaborators:
-Check out my projects on GitHub, and let’s push the boundaries of what we can achieve with data together! [Visit my GitHub](#) <!-- Add your GitHub profile link -->
-
-## 🌐 Connect with me:
+## 🤝 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mahajan07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dewank-mahajan)
