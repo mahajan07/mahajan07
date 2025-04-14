@@ -26,7 +26,6 @@ Whether you’re tackling complex challenges in the financial sector, seeking to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/114365126?s=200&v=4" width="40" height="40" alt="LangChain"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="90" height="30" alt="Streamlit"/>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="60" height="30" alt="FastAPI"/>
