@@ -1,6 +1,6 @@
-## Welcome to My Profile! I'm Dewank Mahajan 🚀
+# Welcome to My Profile! I'm Dewank Mahajan 🚀
 
-### 🌟 Data Science Visionary | Machine Learning Architect | AI Innovator
+## 🌟 Data Science Visionary | Machine Learning Architect | AI Innovator
 ###  🏦 Banking | 🔍 Compliance | 📑 Regulatory | 📊 Business Operations | 🛠️ Technical Solutions
 
 ### 🔍 About Me:
