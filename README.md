@@ -1,7 +1,7 @@
 # Hey there! I'm Dewank Mahajan 🚀
 
 ## 🌟 Data Science Visionary | Machine Learning Architect | AI Innovator
-###  🏦 Banking | 🔍 Compliance | 📑 Regulatory | 📊 Business Operations | 🛠️ Technical Solutions
+###  🏦 Banking | 🔍 Compliance | 📑 Regulatory | 📊 Business Operations | 🛠️ Technical Solutions 
 
 ### 🔍 About Me:
 As a passionate Data Scientist with a Master’s degree from the University of Michigan, I specialize in transforming complex datasets into actionable insights and strategic decisions. My expertise spans the dynamic fields of Machine Learning, Artificial Intelligence, and Big Data, particularly within the banking and educational sectors. I'm driven by a mission to leverage data to revolutionize these industries, enhancing everything from customer experience in consumer banking to learning outcomes in education.
