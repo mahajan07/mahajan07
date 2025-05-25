@@ -13,7 +13,7 @@ As a passionate Data Scientist with a Master’s degree from the University of M
 
 ### 🌐 Let's Connect & Collaborate:
 Whether you’re tackling complex challenges in the financial sector, seeking to innovate in EdTech, or interested in harnessing the latest AI technologies, I’m eager to connect, share insights, and explore potential synergies. Let’s use data science to forge new paths and create transformative solutions!
-
+  
 ### 🤝 Connect with me:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewank-mahajan/)
